@@ -1,0 +1,26 @@
+# Arquivos e pastas do VSCode
+.vscode/
+*.code-workspace
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos ocultos do sistema
+*.log
+*.sqlite3
+
+# Outros que você quiser evitar
+*.zip
+*.tar.gz
+*.bak
